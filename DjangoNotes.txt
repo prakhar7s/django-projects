@@ -1,0 +1,4 @@
+Django
+
+Follows MTV (Model-Template-View) Design Pattern
+Based on "batteries-included" philosophy

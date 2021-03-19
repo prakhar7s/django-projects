@@ -1,0 +1,20 @@
+sudo apt install python3-venv
+
+Create an project folder
+
+Create viratual enviornment  -->  python3 -m venv my-project-env
+
+Activate server --> source my-project-env/bin/activate
+
+Install Django --> pip install Django
+
+Check --> python -m django --version
+
+Create Django Project --> django-admin startproject mysite
+
+To run server -> python manage.py runserver
+
+
+
+If Port is in used --> sudo fuser -k 8000/tcp
+ 
